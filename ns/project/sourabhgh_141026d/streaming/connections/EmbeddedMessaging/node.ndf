@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.sourabhgh_141026d.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">SourabhGH_141026dProject</value>
+  <value name="is_public">false</value>
+  <value name="assetId">SourabhGH_141026dProject.project.sourabhgh_141026d.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-prod731523-um-0.int-prod731523.svc.cluster.local:9000/</value>
+  <value name="clientId">EM06cd99443d944d338c2276a3cf4cacf4</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Sourabh.Harkawat1@ibm.com</value>
+    <value name="modifiedBy">Sourabh.Harkawat1@ibm.com</value>
+    <value name="createdDate">2026-10-14T03:36:39.845070401Z</value>
+    <value name="lastModifiedDate">2026-10-14T03:36:39.845070401Z</value>
+  </record>
+</Values>

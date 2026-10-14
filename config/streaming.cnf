@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="StreamingConfiguration" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="name">SourabhGH_141026dProject_project.sourabhgh_141026d.streaming.connections:EmbeddedMessaging</value>
+        <value name="description">This is the default embedded messaging account</value>
+        <value name="package">SourabhGH_141026dProject</value>
+        <value name="type">Universal Messaging</value>
+        <value name="clientId">EM06cd99443d944d338c2276a3cf4cacf4</value>
+        <value name="enabled">false</value>
+        <value name="other_properties"></value>
+        <value name="dynamic_properties">jms.username=admin
+jms.password=*****
+um.server.url=nhp://stage00-prod731523-um-0.int-prod731523.svc.cluster.local:9000/</value>
+        <value name="securityProtocol"></value>
+        <value name="truststoreAlias"></value>
+        <value name="keystoreAlias"></value>
+        <value name="keystoreKeyAlias"></value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
